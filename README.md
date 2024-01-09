@@ -1,4 +1,19 @@
-### Hi there 👋
+># Hi there 👋
+
+## I'm currently studying Computer Science.
+
+### I'm interested in
+<ul>
+  <li>Python</li>
+  <li>Web Development</li>
+  <li>UI Design</li>
+  <li>Linux</li>
+</ul>
+
+### I'm currently learning
+<ul>
+  <li>Javascript</li>
+</ul>
 
 <!--
 **FT111/FT111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
