@@ -12,7 +12,7 @@
 
 ### I'm currently learning
 <ul>
-  <li>Javascript</li>
+  <li>Javascript/Svelte</li>
 </ul>
 
 <!--
