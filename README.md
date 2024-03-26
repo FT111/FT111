@@ -5,14 +5,14 @@
 ### I'm interested in
 <ul>
   <li>Python</li>
+  <li>JS/Typescript</li>
   <li>Web Development</li>
   <li>UI Design</li>
-  <li>Linux</li>
 </ul>
 
 ### I'm currently learning
 <ul>
-  <li>Javascript/Svelte</li>
+  <li>Svelte</li>
 </ul>
 
 <!--
